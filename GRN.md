@@ -6,8 +6,8 @@
 
 ## History of Revisions
 
-Revision 1: 2025/02/09 Author: Eugene Gr. Philippov + Qwen2.5-Plus AI LLM.
-Revision 2: 2025/02/09 Author: Eugene Gr. Philippov + Qwen2.5-Plus AI LLM.
+ * Revision 1: 2025/02/09 Author: Eugene Gr. Philippov + Qwen2.5-Plus AI LLM.
+ * Revision 2: 2025/02/09 Author: Eugene Gr. Philippov + Qwen2.5-Plus AI LLM.
 
 
 Tell detailed, which business project would solve all of the world's problems.
